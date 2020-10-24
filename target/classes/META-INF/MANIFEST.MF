@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: naugh
+Build-Jdk: 14.0.2
+Class-Path: lib/junit-4.12.jar lib/hamcrest-core-1.3.jar
+Main-Class: com.simplilearn.workshop.HelloWorld
+Created-By: Maven Integration for Eclipse
+
